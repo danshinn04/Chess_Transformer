@@ -14,7 +14,7 @@ Training Routine: Optimized training routines with loss tracking and epoch manag
 
 Interactive Play: Play against the trained model in real-time, entering moves and viewing the model's responses.
 
-**Prerequisites**
+**Requirements**
 
 Python 3.8 or higher
 
@@ -24,3 +24,4 @@ numpy
 
 python-chess (You can pip install these)
 
+chess pgn file to train the model on: (I used a lichess elite chess game database)
