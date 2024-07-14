@@ -5,15 +5,22 @@ Chess Transformer is a machine learning project that utilizes a neural network b
 **Features**
 
 PGN Reader: Parse and extract chess games from PGN files.
+
 Move Tokenization: Convert chess moves into numerical indices suitable for neural network processing.
+
 Transformer Model: A neural network model designed specifically for sequential data like chess moves.
+
 Training Routine: Optimized training routines with loss tracking and epoch management.
+
 Interactive Play: Play against the trained model in real-time, entering moves and viewing the model's responses.
 
 **Prerequisites**
 
 Python 3.8 or higher
+
 PyTorch
+
 numpy
+
 python-chess (You can pip install these)
 
